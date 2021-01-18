@@ -1,0 +1,57 @@
+* {
+   box-sizing: border-box;
+}
+body {
+   margin: 0;
+   font-family: "Alata", sans-serif, "Josefin Sans";
+}
+
+/* Navigation Area */
+.nav-div {
+   background-image: url("../images/desktop/image-hero.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: #dbdde3;
+   padding-bottom: 100px;
+}
+.page-nav {
+   padding-top: 40px;
+}
+.navbar-nav .nav-item {
+   padding-right: 30px;
+   padding-top: 6px;
+}
+.nav-links {
+   color: #dbdde3;
+   text-decoration: none;
+}
+.nav-links:hover {
+   color: #dbdde3;
+   border-bottom: solid #dbdde3 1px;
+}
+
+/* Landing message */
+.immersive-message {
+   border: solid #dbdde3 1px;
+   width: fit-content;
+   margin-top: 170px;
+   width: fit-content;
+}
+.message {
+   font-size: 5rem;
+   font-weight: lighter;
+   padding-top: 20px;
+   padding-left: 30px;
+   line-height: 1;
+   padding-bottom: 10px;
+   padding-right: 100px;
+}
+
+/* Footer Area */
+.attribution {
+   font-size: 11px;
+   text-align: center;
+}
+.attribution a {
+   color: hsl(228, 45%, 44%);
+}
