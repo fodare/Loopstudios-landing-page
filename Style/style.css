@@ -47,7 +47,117 @@ body {
    padding-right: 100px;
 }
 
+/* Immersive Leader Area */
+.interactive-image {
+   width: 100%;
+}
+.leader-message {
+   padding-top: 150px;
+}
+.interactive-message {
+   color: #717171;
+   float: left;
+   padding: 4rem 0 3rem 4rem;
+}
+.interactive-message h2 {
+   padding-bottom: 30px;
+   font-size: 3.5rem;
+   font-weight: lighter;
+}
+.interactive-message p {
+   line-height: 2;
+}
+.message-overlay {
+   background-color: white;
+   position: relative;
+   z-index: 2;
+   top: 150px;
+   right: 150px;
+}
+
+/* Creations Area */
+.creations {
+   margin-top: 200px;
+   margin-bottom: 90px;
+}
+.our-creations {
+   color: #717171;
+}
+.our-creations h1 {
+   float: left;
+}
+.btn {
+   float: right;
+   padding: 5px 25px 5px 25px;
+   background-color: white;
+   color: black;
+}
+
+/* Creations Gallery */
+/* Row 1 */
+.deep-earth {
+   background-image: url("../images/desktop/image-deep-earth.jpg");
+   background-repeat: no-repeat;
+}
+.creation-title {
+   color: white;
+   font-size: 1.4rem;
+   font-weight: lighter;
+   padding-top: 300px;
+   padding-left: 10px;
+   padding-right: 10px;
+   height: 400px;
+}
+.arcade {
+   background-image: url("../images/desktop/image-night-arcade.jpg");
+   background-repeat: no-repeat;
+}
+.soccer {
+   background-image: url("../images/desktop/image-soccer-team.jpg");
+}
+.the-grid {
+   background-image: url("../images/desktop/image-grid.jpg");
+   color: white;
+}
+
+/* Row 2 */
+.from-above {
+   background-image: url("../images/desktop/image-from-above.jpg");
+}
+.pocket {
+   background-image: url("../images/desktop/image-pocket-borealis.jpg");
+}
+.curiosity {
+   background-image: url("../images/desktop/image-curiosity.jpg");
+}
+.fish-eye {
+   background-image: url("../images/desktop/image-fisheye.jpg");
+}
+
+/* Footer content */
+.footer-bd {
+   background-color: black;
+   margin-top: 100px;
+   padding-bottom: 40px;
+   padding-top: 60px;
+}
+.socials {
+   color: white;
+}
+.socials i {
+   float: right;
+   padding: 10px;
+}
 /* Footer Area */
+.links a {
+   padding: 20px;
+   text-decoration: none;
+   color: #dbdde3;
+}
+.footer-copy p {
+   color: #717171;
+   float: right;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
