@@ -1,6 +1,6 @@
 # Frontend Mentor - Loopstudios landing page challenge
 
-# Live URL:
+# Live URL(Desktop Version) : https://fodare.github.io/Loopstudios-landing-page/
 
 ![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
 
