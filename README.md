@@ -1,5 +1,7 @@
 # Frontend Mentor - Loopstudios landing page
 
+# Live URL:
+
 ![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
@@ -20,8 +22,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
+-  View the optimal layout for the site depending on their device's screen size
+-  See hover states for all interactive elements on the page
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
